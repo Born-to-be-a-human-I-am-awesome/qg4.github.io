@@ -1,8 +1,12 @@
 # qg46.github.io
 jkhdsnvm;/ldfasc zhjkbc hehsjgv
+如你所见，这里是请输入内容404的个人网站<br>
+我会在里面放些内容以作存档使用
 
-
-<font face="宋体" color="#0000dd">小闪电喜欢水观点，复制别人观点和冒充他人[doge]</font>
+|我的信息|
+|------|
+|B站UID：524486358|
+|邮箱：thekendsky_404@outlook.com|
 
 # 传送门
 [哔哩哔哩存档区](https://qg46.github.io/bilibili)
