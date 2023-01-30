@@ -5,6 +5,7 @@ jkhdsnvm;/ldfasc zhjkbc hehsjgv
 
 |我的信息|
 |------|
+|QQ号：3285809286|
 |B站UID：524486358|
 |邮箱：thekendsky_404@outlook.com|
 
