@@ -3,7 +3,6 @@
 <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
 <script>
     const gitalk = new Gitalk({
-        // 这个需要在github上申请一个OAuth application
         clientID: '16ed2ca2659f27d17c35',
         clientSecret: 'c6f6ae62a12d380ff1945f44527295d2505503d3',
         repo: 'SaveUserComment',
