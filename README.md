@@ -1,4 +1,4 @@
-<div id="gitalk-container"></div> 
+<div id="gitalk-container">
 <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
 <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
 <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
@@ -13,7 +13,7 @@
         id: window.location.pathname
     })
     gitalk.render('gitalk-container');
-</script></div> 
+</script></div>
 
 # 一切的开端
 jkhdsnvm;/ldfasc zhjkbc hehsjgv<br>
