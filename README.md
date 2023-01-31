@@ -1,3 +1,7 @@
+<!-- 引入jq -->
+<script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script> 
+ <script src="./nginx.conf"></script>
+ 
  <div id="gitalk-container"></div> 
 <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
 <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
