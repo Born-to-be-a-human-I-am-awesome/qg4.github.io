@@ -1,25 +1,3 @@
-<!-- 引入jq -->
-<script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script> 
- <script src="./nginx.conf"></script>
- 
- <div id="gitalk-container"></div> 
-<link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
-<script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
-<script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
-<script>
-    const gitalk = new Gitalk({
-        clientID: '16ed2ca2659f27d17c35',
-        clientSecret: 'c6f6ae62a12d380ff1945f44527295d2505503d3',
-        repo: 'SaveUserComment',
-        owner: 'qg46',
-        admin: ['qg46'],
-        distractionFreeMode: true,
-        id: location.pathname,
-        proxy: 'https://114514-qg46.vercel.app/github/login/oauth/access_token'
-    })
-    gitalk.render('gitalk-container');
-</script>
- 
 # 一切的开端
 jkhdsnvm;/ldfasc zhjkbc hehsjgv<br>
 如你所见，这里是请输入内容404的个人网站<br>
