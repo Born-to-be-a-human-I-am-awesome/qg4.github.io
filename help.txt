@@ -1,2 +1,3 @@
 解决跨站获取GithubToken:
 https://imcbc.cn/202206/vercel-gitalk-cors/
+https://zhuanlan.zhihu.com/p/81270400
