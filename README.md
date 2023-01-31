@@ -14,8 +14,7 @@
         owner: 'qg46',
         admin: ['qg46'],
         distractionFreeMode: true,
-        id: location.pathname,
-        proxy: '/github/login/oauth/access_token'
+        id: location.pathname
     })
     gitalk.render('gitalk-container');
 </script>
