@@ -15,7 +15,7 @@
         admin: ['qg46'],
         distractionFreeMode: true,
         id: location.pathname,
-        proxy: 'https://netnr-proxy.cloudno.de/https://github.com/login/oauth/access_token'
+        proxy: '/github/login/oauth/access_token'
     })
     gitalk.render('gitalk-container');
 </script>
