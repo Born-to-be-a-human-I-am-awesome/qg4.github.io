@@ -11,4 +11,4 @@ jkhdsnvm;/ldfasc zhjkbc hehsjgv<br>
 
 # 传送门
 [哔哩哔哩存档区](https://qg46.github.io/bilibili)
-[TeaCon网站魔改]((https://qg46.github.io/tikeng)
+[TeaCon网站魔改](https://qg46.github.io/tikeng)
