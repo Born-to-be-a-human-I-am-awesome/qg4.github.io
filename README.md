@@ -7,7 +7,7 @@ jkhdsnvm;/ldfasc zhjkbc hehsjgv<br>
 |------|
 |QQ号：3285809286|
 |B站UID：524486358|
-|头像：[预览]() [站内](https://i0.hdslb.com/bfs/face/cd7027786846c4a49e4c8046b536ca0f5923cb16.jpg)|
+|头像：[站内](https://i0.hdslb.com/bfs/face/cd7027786846c4a49e4c8046b536ca0f5923cb16.jpg) [预览](./cd7027786846c4a49e4c8046b536ca0f5923cb16.jpg)|
 |邮箱：thekendsky_404@outlook.com|
 
 # 传送门
