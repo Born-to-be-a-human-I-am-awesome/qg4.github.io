@@ -1,4 +1,4 @@
-<script src="http://open.mobile.qq.com/sdk/qqapi.js"></script>
+<script src="http://qg46.github.io/qshare/qq.js"></script>
 <script>
 window.addEventListener('load', function () {
 mqq.ui.shareMessage({
